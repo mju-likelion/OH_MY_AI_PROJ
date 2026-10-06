@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 실험 중간 산출물 (노트북을 다시 실행하면 재생성됨)
+**/results*/splits/
+**/results*/preds_*.parquet
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
